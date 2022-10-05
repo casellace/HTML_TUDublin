@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Vetrinarian Hospital">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="refresh" contect="30">
+
+<title>Fish Creek Hospital Services</title>
+</head>
+
+<body>
+<div>
+	<header>
+		<h1> Fish Creek Animal Hospital Services </h1>
+	</header>
+	<nav>
+	<a href="fish_creek_website.html">Home</a> |
+  	<a href="services.html">Services</a> |
+  	<a href="fish_creek_website.html">Ask the Vet</a> | 
+ 	<a href="#email">Contact</a> 
+	</nav>
+
+	<section>
+
+		<ul>	
+			<li><b>Medical Services</b>
+				<br>We offer state of the art equipment & technology</li>
+			<li><b>Surgical Services</b>
+				<br>Full range of surgical procedures</li>
+			<li><b>Dental Care</b>
+				<br>A dental care can determine wheteher your pet needs preventative dental care such as scaling and polishing</li>
+			<li><b>House Calls</b>
+				<br>The elderly, physically challenged, and multiple pet households often find our in-home veterinary service helpful and convenient.</li>
+		</ul>
+		<br>
+	</section>
+	<div>
+		1-800-555-5555<br>
+		Address 123<br>
+		Fish Creek, EIRCODE
+	</div>
+
+	<footer>
+	<em>Copy right &copy 2013 Fish Creek Animal Hopsital</em><br>
+	<a id="email"><a href="mailto:email@email.com">email@email.com</a></a>
+	</footer>
+
+</div>
+
+</body>
+</html>
