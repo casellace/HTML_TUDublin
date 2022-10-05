@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Vetrinarian Hospital 24hours">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta http-equiv="refresh" contect="30">
+
+<title>Fish Creek Hospital</title>
+</head>
+
+<body>
+
+<div>
+	<header>
+		<h1> Fish Creek Animal Hospital </h1>
+	</header>
+
+	<nav>
+		<a href="fish_creek_website.html">Home</a> |
+	  	<a href="services.html">Services</a> |
+	  	<a href="fish_creek_website.html">Ask the Vet</a> | 
+	 	<a href="#email">Contact</a> 
+	</nav>
+
+	<section>
+		<dl>	
+			<dt>Full service Facility</dt>
+				<dd>Veterinarias and staff are on duty 24 hours a day, 7 days a week.</dd>
+			<dt>Years of experience</dt>
+				<dd>Fish Creek Veterinarians have provided quality, dependable care for your beloved animals since 1984.</dd>
+			<dt>Open Door Policy</dt>
+				<dd>Our professionals welcome owners to stay with their pets during any medical procedure.</dd>
+		</dl>
+	</section>
+	<div>
+			1-800-555-5555<br>
+			Address 123<br>
+			Fish Creek, EIRCODE
+	</div>
+
+	<footer>
+		<em>Copy right &copy 2013 Fish Creek Animal Hopsital</em><br>
+		<a id="email"><a href="mailto:email@email.com">email@email.com</a></a>
+	</footer>
+	</p>
+
+
+
+
+</body>
+
+</html>
